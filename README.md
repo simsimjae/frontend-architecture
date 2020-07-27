@@ -1,5 +1,3 @@
-# 디지털 노마드들을 위한 위치 기반 주변 카페 알리미
-
 # FrontEnd Architecture
 
 - Mobx(3Layer Architecture)
